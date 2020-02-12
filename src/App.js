@@ -11,8 +11,6 @@ import Detail from './pages/detail/loadable'
 import Login from './pages/login'
 import Write from './pages/write'
 
-
-
 function App() {
   return (
     <React.Fragment>
